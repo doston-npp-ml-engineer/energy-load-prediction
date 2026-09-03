@@ -1,7 +1,7 @@
 # Energy Load Prediction (Decision Tree)
 
 This project predicts energy load types (Light, Medium, Maximum) using a Decision Tree model.
-
+Model built using Decision Tree with GridSearchCV for hyperparameter tuning.
 ## Dataset
 Steel Industry Energy Consumption (2018)
 
